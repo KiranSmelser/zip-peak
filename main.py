@@ -10,10 +10,10 @@ def main():
     zip_file = zipfile.ZipFile(file_name)
     file_list = zip_file.namelist()
     print()
-    #
+    # Prints the names of the files/folders in the enterred .zip file.
     print(f"FILES AND FOLDERS IN \"{file_name}\":")
-    for file in file_list[4:]:
-        print(file)
+    for element in file_list[4:]:
+        print(element)
 
 
 if __name__ == "__main__":
