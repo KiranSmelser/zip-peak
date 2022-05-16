@@ -39,7 +39,7 @@ Project is: _complete_
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by the Reading the Contents of Files section in Automate the Boring Stuff with Python: Practical Programming for Total Beginners by Al Sweigart
+- This project was inspired by the Reading the Contents of Files section in Automate the Boring Stuff with Python: Practical Programming for Total Beginners by Al Sweigart.
 
 
 ## Contact
